@@ -33,7 +33,7 @@ No. I was asked to write a small plugin as a favour.
 
 == Screenshots ==
 
-1. The Sukey.org banner shown as it will appear on your own website.
+1. The Sukey.org banner shown as it will appear on your own website. screenshot-1.png
 
 == Changelog ==
 
