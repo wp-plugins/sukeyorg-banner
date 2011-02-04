@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Sukey.org Banner ===
 Contributors: supportblog
 Tags: sukey
 Requires at least: 2.0.2
