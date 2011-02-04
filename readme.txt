@@ -4,6 +4,7 @@ Tags: sukey
 Requires at least: 2.0.2
 Tested up to: 3.0.4
 Stable tag: 1.0
+Donate link: http://supportblog.co.uk
 
 Show your support for the Sukey.org website. 
 
@@ -33,3 +34,11 @@ No. I was asked to write a small plugin as a favour.
 == Screenshots ==
 
 1. The Sukey.org banner shown as it will appear on your own website.
+
+== Changelog ==
+
+No changes yet, this is the first version.
+
+== Upgrade Notice ==
+
+This is the first version.  No upgrade notices yet!
