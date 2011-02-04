@@ -10,7 +10,7 @@ Show your support for the Sukey.org website.
 
 == Description ==
 
-This plugin will place a Sukey.org banner in the top right of your website (see screenshot).
+This plugin will display the Sukey.org banner in the top right of your website.
 Clicking the banner will redirect the user to the Sukey.org website.
 
 
